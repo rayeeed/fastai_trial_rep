@@ -1,2 +1,2 @@
 # fastai_trial_rep
-going along the fastai course, alone!
+going along the fastai course, again!
